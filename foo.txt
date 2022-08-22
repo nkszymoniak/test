@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Saturday Sunday
 
+=======
+Friday Saturday Sunday
+Nakota Szymoniak
+>>>>>>> e6efc54669e655b96df9d30e90fb888ed2257c87
